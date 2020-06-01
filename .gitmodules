@@ -1,6 +1,6 @@
 [submodule "deno_third_party"]
 	path = third_party
-	url = https://gitee.com/dadigua/deno_third_party.git
+	url = https://github.com/denoland/deno_third_party
 [submodule "typescript"]
 	path = deno_typescript/typescript
 	url = https://github.com/microsoft/TypeScript.git
