@@ -10,6 +10,9 @@ description = "Provides the deno executable"
 repository = "https://github.com/denoland/deno"
 default-run = "deno"
 
+[lib]
+path = "lib.rs"
+
 [[bin]]
 name = "deno"
 path = "main.rs"
